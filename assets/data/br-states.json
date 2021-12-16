@@ -1,0 +1,142 @@
+[
+  {
+    "id": "0",
+    "sigla": "ALL",
+    "name": "Todos"
+  },
+  {
+    "id": "1",
+    "sigla": "AC",
+    "name": "Acre (AC)"
+  },
+  {
+    "id": "2",
+    "sigla": "AL",
+    "name": "Alagoas (AL)"
+  },
+  {
+    "id": "3",
+    "sigla": "AM",
+    "name": "Amazonas (AM)"
+  },
+  {
+    "id": "4",
+    "sigla": "AP",
+    "name": "Amapá (AP)"
+  },
+  {
+    "id": "5",
+    "sigla": "BA",
+    "name": "Bahia (BA)"
+  },
+  {
+    "id": "6",
+    "sigla": "CE",
+    "name": "Ceará (CE)"
+  },
+  {
+    "id": "7",
+    "sigla": "DF",
+    "name": "Distrito Federal (DF)"
+  },
+  {
+    "id": "8",
+    "sigla": "ES",
+    "name": "Espírito Santo (ES)"
+  },
+  {
+    "id": "9",
+    "sigla": "GO",
+    "name": "Goiás (GO)"
+  },
+  {
+    "id": "10",
+    "sigla": "MA",
+    "name": "Maranhão (MA)"
+  },
+  {
+    "id": "11",
+    "sigla": "MG",
+    "name": "Minas Gerais (MG)"
+  },
+  {
+    "id": "12",
+    "sigla": "MS",
+    "name": "Mato Grosso do Sul (MS)"
+  },
+  {
+    "id": "13",
+    "sigla": "MT",
+    "name": "Mato Grosso (MT)"
+  },
+  {
+    "id": "14",
+    "sigla": "PA",
+    "name": "Pará (PA)"
+  },
+  {
+    "id": "15",
+    "sigla": "PB",
+    "name": "Paraíba (PB)"
+  },
+  {
+    "id": "16",
+    "sigla": "PE",
+    "name": "Pernambuco (PE)"
+  },
+  {
+    "id": "17",
+    "sigla": "PI",
+    "name": "Piauí (PI)"
+  },
+  {
+    "id": "18",
+    "sigla": "PR",
+    "name": "Paraná (PR)"
+  },
+  {
+    "id": "19",
+    "sigla": "RJ",
+    "name": "Rio de Janeiro (RJ)"
+  },
+  {
+    "id": "20",
+    "sigla": "RN",
+    "name": "Rio Grande do Norte (RN)"
+  },
+  {
+    "id": "21",
+    "sigla": "RO",
+    "name": "Rondônia (RO)"
+  },
+  {
+    "id": "22",
+    "sigla": "RR",
+    "name": "Roraima (RR)"
+  },
+  {
+    "id": "23",
+    "sigla": "RS",
+    "name": "Rio Grande do Sul (RS)"
+  },
+  {
+    "id": "24",
+    "sigla": "SC",
+    "name": "Santa Catarina (SC)"
+  },
+  {
+    "id": "25",
+    "sigla": "SE",
+    "name": "Sergipe (SE)"
+  },
+  {
+    "id": "26",
+    "sigla": "SP",
+    "name": "São Paulo (SP)"
+  },
+  {
+    "id": "27",
+    "sigla": "TO",
+    "name": "Tocantins (TO)"
+  }
+]

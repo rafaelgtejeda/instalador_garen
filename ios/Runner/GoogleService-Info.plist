@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>281208765630-drlgohvr6djvnn2cm2344r7374v91mg0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.281208765630-drlgohvr6djvnn2cm2344r7374v91mg0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>281208765630-u9670spunnpk1dcq0qisue57eibt5s1a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAghhbDsS6lhE6DET0xYA2SPEGo3nNUQxw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>281208765630</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.garen</string>
+	<key>PROJECT_ID</key>
+	<string>site-garen</string>
+	<key>STORAGE_BUCKET</key>
+	<string>site-garen.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:281208765630:ios:cbd0746d00e2169f</string>
+	<key>DATABASE_URL</key>
+	<string>https://site-garen.firebaseio.com</string>
+</dict>
+</plist>
